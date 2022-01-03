@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mytextviewpadding">10dp</dimen>
+    <dimen name="mytextviewmargin">8dp</dimen>
+    <dimen name="mytextviewsize">50dp</dimen>
+</resources>
